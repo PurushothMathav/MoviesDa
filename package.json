@@ -1,15 +1,14 @@
 {
-    "name": "link-formatter",
-    "version": "1.0.0",
-    "description": "A project to generate and check downloadable links",
-    "main": "server.js",
-    "scripts": {
-      "start": "node server.js"
-    },
-    "dependencies": {
-      "express": "^4.17.1",
-      "request": "^2.88.2",
-      "cors": "^2.8.5"
-    }
+  "name": "link-formatter",
+  "version": "1.0.0",
+  "description": "A project to generate and check downloadable links",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "cors": "^2.8.5"
   }
-  
+}
